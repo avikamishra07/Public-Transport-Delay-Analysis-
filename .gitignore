@@ -1,0 +1,14 @@
+# Large datasets
+*.csv
+
+# Python-generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local secrets
+.env
+
+# Logs
+*.log
